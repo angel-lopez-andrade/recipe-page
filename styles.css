@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Chilanka';
+    background-color: rgb(170, 201, 230);
+    margin-left: 5vh;
+}
+
+#main-title {
+    text-align: center;
+    position: relative;
+    margin-top: 5vh;
+    font-family: 'Lobster'
+}
